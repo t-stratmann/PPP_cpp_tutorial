@@ -35,5 +35,8 @@
     <ClCompile Include="PPP_cpp_tutorial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="useful_code_to_keep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
